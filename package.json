@@ -1,0 +1,14 @@
+{
+  "name": "lyrid-node-template",
+  "version": "1.0.0",
+  "description": "Simple Node.js Lyrid Serverless Project",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
